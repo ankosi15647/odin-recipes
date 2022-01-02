@@ -1,0 +1,35 @@
+
+
+.title {
+    background-color: #485696; 
+}
+
+.recipe-title{
+    background-color: #f9c784;
+    text-align: center;
+}
+.recipe-link {
+    font-size: 20px;
+    color: #f24c00;
+}
+
+.home-body {
+    background-color: #f9c784;
+}
+
+.recipe-body {
+    background-color: #485696;
+}
+
+img {
+    height: auto;
+    width: 900px;
+}
+
+button {
+    background-color: #f24c00;
+}
+
+.recipe-source {
+    font-size: 22px;
+}
